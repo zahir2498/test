@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/zahir2498/test/main/enc.key
+enc.key
